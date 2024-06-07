@@ -1,0 +1,33 @@
+baseUrl=https://djv84sab8ypse.cloudfront.net/login?redirect=%2Fmy-settings
+
+//Only one user in a organization (OrgName: QA ORG1)
+adminEmail=mlbdqa@monstar-lab.com
+adminPass=Qc1234
+
+//User with no Organization
+userEmail1 = mexpensemlbd@gmail.com
+userPass1 = Qc1234
+
+//Admin of the organization (Org of QA TEAM)
+adminEmail1 = mexpense11@gmail.com
+adminPass1 = Qc1234
+
+
+//Approver of the organization (Org of QA TEAM)
+approverEmail1 = mexpense33@gmail.com
+approverPass1 = Qc1234
+
+//Submitter of the organization (Org of QA TEAM)
+submitterEmail1 = mexpenseqa11@gmail.com
+submitterPass1 = Qc1234
+
+//Admin with dummy data (OrgName: MonstarLab!)
+adminEmail2 = sumaiya@monstar-lab.com
+adminPass2 = qc1234
+
+submitterEmail1=mexpenseqa11@gmail.com
+submitterPassword1=Qc1234
+submitterEmail1=mexpense11@gmail.com
+submitterPassword1=Qc1234
+email=test1@ja.com
+password=     a

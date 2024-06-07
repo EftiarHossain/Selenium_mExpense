@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47409" started-at="2022-10-25T15:46:06 BDT" finished-at="2022-10-25T15:46:53 BDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47409" started-at="2022-10-25T15:46:06 BDT" finished-at="2022-10-25T15:46:53 BDT">
+      <class name="mExpanse.Pages.TestCases.LogInTC">
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:mExpanse.Pages.TestCases.LogInTC@4d3167f4]" name="setupDriver" is-config="true" duration-ms="13347" started-at="2022-10-25T15:46:06 BDT" finished-at="2022-10-25T15:46:19 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="uiElementVerification()[pri:1, instance:mExpanse.Pages.TestCases.LogInTC@4d3167f4]" name="uiElementVerification" duration-ms="798" started-at="2022-10-25T15:46:19 BDT" finished-at="2022-10-25T15:46:20 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiElementVerification -->
+        <test-method status="PASS" signature="mailFormatValidation()[pri:2, instance:mExpanse.Pages.TestCases.LogInTC@4d3167f4]" name="mailFormatValidation" duration-ms="15908" started-at="2022-10-25T15:46:20 BDT" finished-at="2022-10-25T15:46:36 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailFormatValidation -->
+        <test-method status="PASS" signature="mailPassNotSpecified()[pri:3, instance:mExpanse.Pages.TestCases.LogInTC@4d3167f4]" name="mailPassNotSpecified" duration-ms="8272" started-at="2022-10-25T15:46:36 BDT" finished-at="2022-10-25T15:46:44 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailPassNotSpecified -->
+        <test-method status="PASS" signature="wrongmailCorrectPass()[pri:4, instance:mExpanse.Pages.TestCases.LogInTC@4d3167f4]" name="wrongmailCorrectPass" duration-ms="1637" started-at="2022-10-25T15:46:44 BDT" finished-at="2022-10-25T15:46:46 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongmailCorrectPass -->
+        <test-method status="PASS" signature="correctMailWrongPass()[pri:5, instance:mExpanse.Pages.TestCases.LogInTC@4d3167f4]" name="correctMailWrongPass" duration-ms="2021" started-at="2022-10-25T15:46:46 BDT" finished-at="2022-10-25T15:46:48 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctMailWrongPass -->
+        <test-method status="PASS" signature="correctMailCorrectPass()[pri:6, instance:mExpanse.Pages.TestCases.LogInTC@4d3167f4]" name="correctMailCorrectPass" duration-ms="4966" started-at="2022-10-25T15:46:48 BDT" finished-at="2022-10-25T15:46:53 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctMailCorrectPass -->
+        <test-method status="PASS" signature="testCaseTearDown()[pri:0, instance:mExpanse.Pages.TestCases.LogInTC@4d3167f4]" name="testCaseTearDown" is-config="true" duration-ms="346" started-at="2022-10-25T15:46:53 BDT" finished-at="2022-10-25T15:46:53 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseTearDown -->
+      </class> <!-- mExpanse.Pages.TestCases.LogInTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
